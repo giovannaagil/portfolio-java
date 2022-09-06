@@ -7,5 +7,5 @@ Portifólio de aplicativos para desktop, desenvolvidos em linguagem Java, no cur
 ## Demonstração (Instrução para instalação)
 - É necessário ter o Java versão 17 ou superior instalado;
 - Em releases, baixar o executável .jar;
-- No windows basta clicar 2x;
-- No Linux transformar o arquivo em executável.
+- No Windows clique 2x;
+- No Linux transforme o arquivo em executável.
